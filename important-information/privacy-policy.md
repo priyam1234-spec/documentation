@@ -2,7 +2,7 @@
 description: 'Last updated: Oct 29, 2022'
 ---
 
-# Privacy Policy
+# 🔓 Privacy Policy
 
 This Privacy Policy describes Our policies and procedures on the collection, use, and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -68,3 +68,5 @@ We may update Our Privacy Policy from time to time. We will notify You of any ch
 ## Contact Us <a href="#contact-us" id="contact-us"></a>
 
 If you have any questions about this Privacy Policy, You can contact us: [here](mailto:priyamvishwakarma7@gmail.com)
+
+#### &#x20;                                                              Made with ❤️ by Priyam :D

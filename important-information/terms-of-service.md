@@ -2,7 +2,7 @@
 description: 'Last updated: Oct 29, 2022'
 ---
 
-# Terms of Service
+# ✨ Terms of Service
 
 Please read these terms and conditions carefully before using ChatBot.
 
@@ -53,3 +53,5 @@ By continuing to access or use Our Bot after those revisions become effective, Y
 ## Contact Us
 
 If you have any questions about these Terms and Conditions, You can contact us: [here](mailto:priyamvishwakarma7@gmail.com)
+
+#### &#x20;                                                              Made with ❤️ by Priyam :D

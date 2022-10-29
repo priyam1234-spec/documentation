@@ -2,10 +2,14 @@
 
 ## ❓ Guide
 
-* [Getting Started](README.md)
-* [Setting Up The Bot](guide/setting-up-the-bot.md)
+* [⭐ Getting Started](README.md)
+* [⚙ Setting Up The Bot](guide/setting-up-the-bot.md)
 
 ## 📜 Important Information
 
-* [Privacy Policy](important-information/privacy-policy.md)
-* [Terms of Service](important-information/terms-of-service.md)
+* [🔓 Privacy Policy](important-information/privacy-policy.md)
+* [✨ Terms of Service](important-information/terms-of-service.md)
+
+## 🤝 Thank You!
+
+* [💞 The End](thank-you/the-end.md)
