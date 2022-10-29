@@ -8,3 +8,4 @@
 ## 📜 Important Information
 
 * [Privacy Policy](important-information/privacy-policy.md)
+* [Terms of Service](important-information/terms-of-service.md)
